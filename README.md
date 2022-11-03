@@ -1,5 +1,8 @@
 # TEMPLATE-docs
 
+* Storybook (production): <https://ucsb-cs156-f22.github.io/team03-f22-6pm-1-docs>
+* Storybook (development/qa): <https://ucsb-cs156-f22.github.io/team03-f22-6pm-1-docs-qa>
+
 This repo is a template repo used in the GitHub Actions scripts of several 
 repos in this organization.  It forms the initial template for the `-docs` 
 and `-docs-qa` repos used with GitHub pages to publish documentation.
